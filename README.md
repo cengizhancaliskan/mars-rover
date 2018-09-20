@@ -1,5 +1,12 @@
 # Mars Rover Problem Solutions
 
+- [x] Python
+- [x] C#
+- [ ] Java
+- [ ] PHP
+- [ ] Javascript
+- [ ] R
+
 Code Review: Mars Rover
 ==================
 
